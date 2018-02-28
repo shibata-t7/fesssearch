@@ -1,0 +1,15 @@
+# mBaaS側のパラメータ設定
+kii_domain="api-jp.kii.com"
+app_id="af06c70e"
+app_key="165f3bb0f2bd0cc8f4b0e759dbb07976"
+bucket_name="Spot"
+access_token="cQz2EDz5sGrXLhHEUyltB2LQICZU0sXANeugF7he35Y"
+
+# 対応ファイルフォーマット
+filetype=("application/pdf" "application/vnd.ms-excel" "application/msword" "application/vnd.ms-powerpoint")
+
+# Solr側のパラメータ設定
+solr_domain="search.cio.dnp.co.jp"
+solr_port="8080"
+solr_core="solrbook"
+solr_objcore="tika_test"
